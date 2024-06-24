@@ -53,7 +53,7 @@ body {
 }
 
 .rk-header {
-  background-color: red;
+  background-color: grey;
   position: relative;
   z-index: 5;
 }
@@ -1166,7 +1166,7 @@ body {
 }
 
 .item-1 {
-  background-image: url("../img/project-1.jpg");
+  background-image: url("../img/Panzer\ II.jpeg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-1 {
@@ -1175,19 +1175,19 @@ body {
 }
 
 .item-2 {
-  background-image: url("../img/project-2.jpg");
+  background-image: url("../img/TigerR.jpg");
 }
 
 .item-3 {
-  background-image: url("../img/project-3.jpg");
+  background-image: url("../img/M-18\ Hellcat.jpg");
 }
 
 .item-4 {
-  background-image: url("../img/project-4.jpg");
+  background-image: url("../img/M-8\ Greyhound_combate.jpg");
 }
 
 .item-5 {
-  background-image: url("../img/project-5.jpg");
+  background-image: url("../img/Transporte.gif");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-5 {
@@ -1196,7 +1196,7 @@ body {
 }
 
 .item-6 {
-  background-image: url("../img/project-6.jpg");
+  background-image: url("../img/M7_Priest_1.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-6 {
@@ -1205,11 +1205,11 @@ body {
 }
 
 .item-7 {
-  background-image: url("../img/project-7.jpg");
+  background-image: url("../img/Batalla_Kursk.jpg");
 }
 
 .item-8 {
-  background-image: url("../img/project-8.jpg");
+  background-image: url("../img/Curchill\ AVRE_1.jpg");
 }
 
 .item-9 {
@@ -1350,7 +1350,7 @@ body {
 }
 
 .item-inside-1 {
-  background-image: url("../img/project-1.jpg");
+  background-image: url("../img/TigerR.jpg");
   background-position: 50% 100%;
   background-size: 350%;
 }
@@ -1571,7 +1571,7 @@ body {
 }
 
 .post-1 {
-  background-image: url("../img/post-1.jpg");
+  background-image: url("../img/Tiger-I-in-France.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-1 {
@@ -1580,11 +1580,11 @@ body {
 }
 
 .post-2 {
-  background-image: url("../img/post-2.jpg");
+  background-image: url("../img/Batalla_Kursk.jpg");
 }
 
 .post-3 {
-  background-image: url("../img/post-3.jpg");
+  background-image: url("../img/Interior_Wolverine_2.jpg");
   background-size: 160%;
 }
 @media (min-width: 40em) {
@@ -1597,11 +1597,11 @@ body {
 }
 
 .post-4 {
-  background-image: url("../img/post-4.jpg");
+  background-image: url("../img/M36_Jackson.jpg");
 }
 
 .post-5 {
-  background-image: url("../img/post-5.jpg");
+  background-image: url("../img/IS-2#1.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-5 {
@@ -1610,7 +1610,7 @@ body {
 }
 
 .post-6 {
-  background-image: url("../img/post-6.jpg");
+  background-image: url("../img/FT\ y\ CharB2.jpeg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-6 {
@@ -1641,7 +1641,7 @@ body {
 }
 
 .post-1 {
-  background-image: url("../img/post-1.jpg");
+  background-image: url("../img/Fentanilo1.jpg");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-1 {
@@ -1650,11 +1650,11 @@ body {
 }
 
 .post-2 {
-  background-image: url("../img/post-2.jpg");
+  background-image: url("../img/Fentanilo2.jpg");
 }
 
 .post-3 {
-  background-image: url("../img/post-3.jpg");
+  background-image: url("../img/Fentanilo_3.jpeg");
   background-size: 160%;
 }
 @media (min-width: 40em) {
@@ -1667,11 +1667,11 @@ body {
 }
 
 .post-4 {
-  background-image: url("../img/post-4.jpg");
+  background-image: url("../img/Fentanilo_4.jpg");
 }
 
 .post-5 {
-  background-image: url("../img/post-5.jpg");
+  background-image: url("../img/Fenatnilo_6.jpg");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-5 {
@@ -1680,7 +1680,7 @@ body {
 }
 
 .post-6 {
-  background-image: url("../img/post-6.jpg");
+  background-image: url("../img/Fentanilo_5.jpg");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-6 {
@@ -1689,7 +1689,7 @@ body {
 }
 
 .post-7 {
-  background-image: url("../img/post-7.jpg");
+  background-image: url("../img/Fentanilo_7.jpg");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-7 {
@@ -1698,11 +1698,11 @@ body {
 }
 
 .post-8 {
-  background-image: url("../img/post-8.jpg");
+  background-image: url("../img/Fentanilo_9.jpg");
 }
 
 .post-9 {
-  background-image: url("../img/post-9.jpg");
+  background-image: url("../img/Fentanilo_10.jpg");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-9 {
